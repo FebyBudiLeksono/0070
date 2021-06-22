@@ -1,0 +1,5 @@
+Membuka file menggunakan framework akses penyimpanan
+bookmark_border
+Android 4.4 (API level 19) memperkenalkan Storage Access Framework (SAF). SAF memudahkan pengguna menjelajahi dan membuka dokumen, gambar, serta file lain di semua penyedia penyimpanan dokumen pilihannya. UI standar yang mudah digunakan memungkinkan pengguna secara konsisten menjelajahi file dan mengakses dokumen yang baru dibuka di semua aplikasi dan penyedia.
+
+Layanan penyimpanan cloud atau lokal dapat dilibatkan dalam ekosistem ini dengan menerapkan DocumentsProvider yang merangkum layanannya. Aplikasi klien yang memerlukan akses ke dokumen penyedia dapat berintegrasi dengan SAF hanya dengan beberapa baris kode.
